@@ -21,7 +21,7 @@ regrModel = linear_model.LinearRegression()  # regression model
 regrModel.fit(x_train, y_train)
 # Predicting the Test set result
 y_pred = regrModel.predict(x_test)
-#ACCURACY
+#ACCURACY Checking
 print('Train Score: ', regrModel.score(x_train, y_train))
 print('Test Score: ', regrModel.score(x_test, y_test))
 
