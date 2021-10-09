@@ -4,6 +4,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import linear_model
 
+#Problem: Predict death no. using the sample data of the excel file which is the 
+#covid 19 affected people's data in Bangladesh of 2021
+#see the sampledatapdf file to get idea about sample data
+
+#ignore .idea and venv folders which are the required files to run the project in the python IDE.
+
+# Covid19deathPrediction2021UsingMultipleLinearRegression
 # This Project's  dataset is the covid19 affected people's data of 2021 in Bangladesh.
 # Our job is to predict death by building multivariable/multiple Linear regression model
 

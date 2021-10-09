@@ -1,7 +1,6 @@
 # Covid19deathPrediction2021UsingMultipleLinearRegression
 #Problem: Predict death no. using the sample data of the excel file which is the covid 19 affected people's data in Bangladesh of 2021
-#ignore .idea and venv files which are the helper files to run the project in the python IDE.
-
+#ignore .idea and venv folders which are the required files to run the project in the python IDE.
 #Independent/input variables are new_cases, new_tests which I set as X, Depenedent/ Target variable is new_deaths which is considered as Y
 
 #See the DataVisualization.py file at first. Here, check the excel file's sample data. See SampleDatacsvFile.pdf file (10 data is seen here out of total 231 rows).
